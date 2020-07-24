@@ -1,0 +1,77 @@
+body
+{
+	background:#253648;
+}
+
+#main
+{
+	border-color: white;
+	border-bottom-style: dotted;
+	border-width: 3px;
+	border-color:#ffff;
+	width: 200px;
+	height: 325px;
+	margin-left: 500px;
+	margin-top:20px;
+}
+#uploadicon
+{
+	margin-left:40px;
+	width: 120px;
+}
+#sub
+{
+	text-align: center;
+	margin-top:-20px;
+}
+
+#Name
+{	
+	text-shadow: 1px 1px black;
+	font-weight: bold;
+	font-size: 30px;
+	color:#ffff;
+	border-bottom: solid;
+	border-color: #285A91;
+	border-width: 1px;
+	
+	padding-bottom: 5px;
+}
+#fileToUpload
+{
+	padding:10px;
+	border-radius: 5px;
+}
+#upd
+{
+	margin-top: 20px;
+	padding:10px;
+	width: 150px;
+	border-radius: 20px;
+	border-color: white;
+	background-color: #285A91;
+	color:white;
+	font-size: 20px;
+	text-shadow: 1px 1px black;
+}
+#upd:hover
+{
+	background: white;
+	color: #193A5E;
+	text-shadow: 0px 0px;
+	font-weight: bold;
+	border-width: 2px;
+	border-color: #193A5E;
+	box-shadow: 2px  #193A5E;
+}
+#logo
+{
+	width: 100px;
+	height: 100px;
+	margin-left:1150px;
+}
+#imgbottom
+{
+	margin-left: 1190px;
+	margin-top: 100px;
+}
